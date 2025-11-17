@@ -17,4 +17,7 @@ I am proficient in Python and am familiar with Java and GDScript. I have a backg
 I attended a seven-week program as a student with Girls Who Code back in the summer of 2018 where I was exposed to/learned Python, JavaScript, HTML, and CSS.
 
 ### Resume:
-My resume can be found [here](main/resume.pdf).
+My resume can be found [here](/resume.pdf).
+
+### Contact:
+Information that can be used to contact me is included within my resume.
